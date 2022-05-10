@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  border: #282c34;
+}
+
+.FilmBox {
+  border: black
 }
 
 .App-logo {
